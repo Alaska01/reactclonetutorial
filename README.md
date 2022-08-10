@@ -20,3 +20,6 @@
 - After it have successfully installed, run `$ npm start` to start your project.
 - Hurray, you have successfully cloned, and created a new react project and gained ownership of a new project and left the creat-react-app issues behind.
 - You can begin to edit and add various components, styles and whatever you may wish to do.
+
+# Watch Details Video Documentation Here
+- [Watch Video](https://youtu.be/yRLIxk0P2M0)

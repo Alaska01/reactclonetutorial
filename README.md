@@ -14,7 +14,7 @@
 - Paste the copied content into the new folder created called **newreactapp**
 - Go to the package.json file and on line 2 change this code `"name": "reactclone",` to `"name": "name of folder housing your project",` i.e `"name": "newreactapp",` as can be seen in the screenshot below.
 
-![screenshot](src/images/01cloneapp.png)
+![screenshot](/images/01cloneapp.png)
 
 - Run `$ npm install` or the yarn command you use to install.
 - After it have successfully installed, run `$ npm start` to start your project.
